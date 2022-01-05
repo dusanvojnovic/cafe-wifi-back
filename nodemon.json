@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "dusan",
+    "DB_PASSWORD": "bvaeXr0FSIQ7sN69",
+    "DB_NAME": "cafes",
+    "JWT_KEY": "super_secret"
+  }
+}
